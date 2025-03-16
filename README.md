@@ -113,5 +113,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries, please contact:
 
-**Majunxian Wang** – [mjx@example.com](mailto:mjx@example.com)
+**Maijunxian Wang** – [wmjx224@gmail.com](wmjx224@gmail.com)
 ```
