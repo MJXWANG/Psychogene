@@ -114,4 +114,3 @@ This project is licensed under the [MIT License](LICENSE).
 For any inquiries, please contact:
 
 **Maijunxian Wang** – [wmjx224@gmail.com](wmjx224@gmail.com)
-```
