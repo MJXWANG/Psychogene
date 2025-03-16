@@ -1,4 +1,3 @@
-```markdown
 # Psychophysics
 
 **Psychophysics** is a Python project designed for generating experimental data and stimuli for Flanker and Stroop experiments. The project provides functionality to create datasets (in Excel format) and generate corresponding images for experimental use.
@@ -18,7 +17,7 @@ Psychophysics/
 ├── .gitignore               # Git ignore file to exclude unnecessary files
 ├── pyproject.toml           # Project configuration and dependency management (using flit)
 └── README.md                # This file
-```
+
 
 ## Installation
 
