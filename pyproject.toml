@@ -1,0 +1,31 @@
+[build-system]
+requires = ["flit_core >= 3.4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "Psychophysics"
+version = "0.1.0"
+authors = [{ name = "Maijunxian Wang" }]
+description = "A project for generating experimental data and stimuli for Flanker and Stroop experiments."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas",
+    "matplotlib",
+    "openpyxl"
+]
+
+[project.optional-dependencies]
+test = ["pytest", "pytest-cov"]
+
+[tool.black]
+line-length = 127
+
+[tool.ruff]
+line-length = 127
+select = ["E", "F", "I"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
+markers = ["integration", "slow"]

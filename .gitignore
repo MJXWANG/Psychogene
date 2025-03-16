@@ -1,0 +1,20 @@
+# Python bytecode and cache files
+__pycache__/
+*.pyc
+
+# Virtual environment directories (adjust according to your virtual environment names)
+venv/
+.env/
+
+# Operating system generated files
+.DS_Store
+Thumbs.db
+
+# Automatically generated output files and data directories
+Data-set/
+Data-set-Image/
+experiment_stimuli/
+
+# IDE/editor settings (ignore folders based on the IDE you use)
+.vscode/
+.idea/
