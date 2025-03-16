@@ -4,7 +4,7 @@
 
 ## Project Structure
 
-```plaintext
+
 Psychophysics/
 ├── Psycho/
 │   ├── Main.py              # Main entry script containing interactive mode and data/image generation functions
