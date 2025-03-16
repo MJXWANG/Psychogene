@@ -5,13 +5,13 @@
 
 ## Project Structure
 
-```
+```plaintext
 Psychophysics/
-├── Psycho/                  
+├── Psycho/
 │   ├── Main.py              # Main entry script containing interactive mode and data/image generation functions
 │   ├── __init__.py          # Package initialization file (can be empty or include package-level variables)
 │   └── generation/          # Additional modules for data generation (if any)
-├── examples/                
+├── examples/
 │   ├── example_usage.py     # Demonstrates interactive usage of Main.py
 │   └── researcher_workflow.py  # A workflow example for generating experimental data and images (Stroop example)
 ├── legacy/                  # Archive of older or deprecated code (if any)
