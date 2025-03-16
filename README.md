@@ -4,7 +4,7 @@
 
 ## Project Structure
 
-plaintext
+```plaintext
 Psychophysics/
 ├── Psycho/
 │   ├── Main.py              # Main entry script containing interactive mode and data/image generation functions
@@ -17,7 +17,7 @@ Psychophysics/
 ├── .gitignore               # Git ignore file to exclude unnecessary files
 ├── pyproject.toml           # Project configuration and dependency management (using flit)
 └── README.md                # This file
-
+```
 
 ## Installation
 
